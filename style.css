@@ -1,0 +1,17 @@
+#app {
+    text-align: center;
+}
+
+h1 {
+    padding: 20px;
+    font-size: 100px;
+    cursor: pointer;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
